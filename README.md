@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 专注前端领域、移动端领域(Hybrid、ReactNative、Android)
+- 🌱 后台技术(Java、Node)
+- 👯 个人网站地址:https://www.yuque.com/jakeprim
+- 🤔 公众号:FrontMagic
+- ⚡ Fun fact: 做自己喜欢的事,全情投入.
