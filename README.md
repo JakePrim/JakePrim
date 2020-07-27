@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 专注前端领域、移动端领域(Hybrid、ReactNative、Android OS)
-- 🌱 Node应用
+- 🔭 专注前端领域、移动端领域(跨平台开发(ReactNative、Flutter)、Android OS(对Android开发有深入的研究以及Hybrid))
+- 🌱 Node 服务端应用开发
 - 👯 个人网站地址(需要翻墙):https://www.notion.so/jakeprim/Web-Engineering-Wiki-af508f9c7b49497482e3f7603fbf55b7
 - 💬 掘金:https://juejin.im/user/58b90798128fe10064336192
 - 🤔 公众号:@ FrontMagic
