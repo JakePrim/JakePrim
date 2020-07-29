@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 ![JakePrim's github stats](https://github-readme-stats.vercel.app/api?username=JakePrim&show_icons=true&theme=dracula)
 
-[![AGenericClient](https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=AGenericClient)](https://github.com/JakePrim/AGenericClient)
+|    |      | 
+|---------|---------|---------
+| [![AGenericClient](https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=AGenericClient)](https://github.com/JakePrim/AGenericClient) |
 
-[![ReactAdvanced](https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=ReactAdvanced)](https://github.com/JakePrim/ReactAdvanced)
+[![ReactAdvanced](https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=ReactAdvanced)](https://github.com/JakePrim/ReactAdvanced) |
+
+[![VueAdvanced](https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=VueAdvanced)](https://github.com/JakePrim/VueAdvanced)
 
 | 公众号   | 掘金     | 个人知识库(需要翻墙)
 |---------|---------|---------
