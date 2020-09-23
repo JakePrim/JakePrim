@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 专注前端领域、移动端领域(跨平台开发(ReactNative、Flutter)、Android OS(对Android开发有深入的研究以及Hybrid))
+- 🔭 专注移动端领域(跨平台开发(ReactNative、Flutter)、Android OS(对Android开发有深入的研究以及Hybrid))
 - 🌱 Node 服务端应用开发
 - ⚡ Fun fact: 做自己喜欢的事,全情投入.
 
