@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 专注大前端领域:Vue React ReactNative Android 小程序
+- 🔭 专注大前端领域:Vue React uni-app Android Flutter
 - 🌱 Node 服务端应用开发
 - ⚡ Fun fact: 做自己喜欢的事,全情投入.
 
