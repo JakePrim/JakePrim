@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 专注大前端端领域：
-- 👯 vue react 跨平台开发(uni-api、Taro、ReactNative)、Android OS(hybrid app)
+- 👯 vue react 跨平台开发(uni-api、Taro、ReactNative)、Android OS(hybrid、jekpack、kotlin)
 - 🌱 Node 服务端应用开发
 - ⚡ Fun fact: 勤思考 - 多动手 - 善总结 - 能坚持 认真生活 - 快乐工作 关心于人 - 用心于事 - 静心于己
 
