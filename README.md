@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 专注移动端领域(跨平台开发(uni-api、Flutter)、Android OS、Kotlin、移动端音视频处理技术等)
-- 🌱 偶尔搞Java服务端 spring boot 开发
+- 🔭 专注大前端端领域：
+- 👯 vue react 跨平台开发(uni-api、Flutter)、Android OS(hybrid app)
+- 🌱 Node 服务端应用开发
 - ⚡ Fun fact: 勤思考 - 多动手 - 善总结 - 能坚持 认真生活 - 快乐工作 关心于人 - 用心于事 - 静心于己
 
 <p>  
