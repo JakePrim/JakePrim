@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 专注大前端端领域：
-- 👯 前端框架：vue react 
+- 👯 前端：vue 、react 
 - 📫 跨平台开发：uni-api、Taro、Flutter
 - 😄 客户端开发：Android
 - 🌱 服务端开发：Node、Java 
