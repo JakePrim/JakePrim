@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 专注大前端端领域：
-- 👯 前端框架：vue 、react 、uni-app、Taro
-- 📫 跨平台开发：ReactNative、HybridAPP
-- 😄 客户端开发：Android
+- 👯 客户端开发：精通Android开发
+- 📫 跨平台开发：ReactNative、HybridAPP、Flutter
 - 🌱 服务端开发：Node、Java 
 - ⚡ Fun fact: 勤思考 - 多动手 - 善总结 - 能坚持 认真生活 - 快乐工作 关心于人 - 用心于事 - 静心于己
 
