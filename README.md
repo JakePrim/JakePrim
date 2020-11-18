@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 | 公众号   | 掘金     | 个人博客
 |---------|---------|---------
-| [FrontMagic]()  |  [点我](https://juejin.im/user/58b90798128fe10064336192) |   [点我](https://www.yuque.com/jakeprim) 
+| [JavaMagic]()  |  [点我](https://juejin.im/user/58b90798128fe10064336192) |   [点我](https://www.yuque.com/jakeprim) 
