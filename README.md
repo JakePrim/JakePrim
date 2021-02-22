@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 专注于Web与移动端开发领域：
+- 🔭 专注于大前端(Web与移动端、Node、跨端、数据分析)开发领域：
 
 Web前端进阶四部曲：
 
