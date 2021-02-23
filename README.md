@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## JakePrim's Github
 
-- 🔭 专注于移动端开发领域：Android架构及NDK开发、Flutter、小程序、偶尔搞一下Java后台
+- 🔭 专注于Java开发领域：服务端、大数据
 
 - ⚡ Fun fact: 勤思考 - 多动手 - 善总结 - 能坚持 - 认真生活 - 快乐工作 - 关心于人 - 用心于事 - 静心于己
 
