@@ -18,6 +18,16 @@ Here are some ideas to get you started:
 
 - 🔭 专注于Java开发领域：服务端、大数据
 
+ Java进阶四部曲： 
+ 
+ Superman(超人-扎实的理论知识)
+ 
+ Honor-of-Kings(王者荣耀-项目实战)
+ 
+ Legend(传奇-架构师的修炼之路) 
+ 
+ MagicWeapon(神兵利器-工具篇)
+
 - ⚡ Fun fact: 勤思考 - 多动手 - 善总结 - 能坚持 - 认真生活 - 快乐工作 - 关心于人 - 用心于事 - 静心于己
 
 ![JakePrim's github stats](https://github-readme-stats.vercel.app/api?username=JakePrim&show_icons=true&theme=dracula)
