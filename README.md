@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## JakePrim's Github
 
-- 🔭 专注于Java开发领域及移动端领域
+- 🔭 专注于移动端开发领域：Android、Flutter、小程序、NDK
 
 进阶四部曲： 
  
