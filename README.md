@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## JakePrim's Github
 
-- 🔭 专注于Java开发领域：服务端、大数据
+- 🔭 专注于Java开发领域及移动端领域
 
- Java进阶四部曲： 
+进阶四部曲： 
  
  Superman(超人-扎实的理论知识)
  
