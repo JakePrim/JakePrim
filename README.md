@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## JakePrim's Github
 
-- 🔭 专注于大前端开发领域：VUE、REACT、NODE、小程序
+- 🔭 专注于大前端开发领域：Android、VUE、React Native、Node、小程序
 - 偶尔搞搞Java后台技术，横向扩展不断学习中....
 
 - ⚡ Fun fact: 勤思考 - 多动手 - 善总结 - 能坚持 - 认真生活 - 快乐工作 - 关心于人 - 用心于事 - 静心于己
