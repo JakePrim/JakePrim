@@ -9,29 +9,6 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 
 ![JakePrim's github stats](https://github-readme-stats.vercel.app/api?username=JakePrim&show_icons=true&theme=dracula)
 
-
-<div class="wrap" style="overflow-x: auto;overflow-y: hidden; ">
-
-
-
-<a href="https://github.com/JakePrim/summer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=summer" width = 350px/>
-</a>
-
-<a href="https://github.com/JakePrim/summer-ndk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=summer-ndk" width = 350px/>
-</a>
-
-<a href="https://github.com/JakePrim/summer-flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=summer-flutter" width = 350px/>
-</a>
-
-<a href="https://github.com/JakePrim/Superman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JakePrim&repo=Superman" width = 350px/>
-</a>
-
-</div>
-
 ---
 
 **联系我**
