@@ -11,7 +11,7 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 **联系我**
 
 * 个人微信：XY_stars
-* 公众号：JakePrim，包含 Vue,React,Node,Flutter,Java 等等一系列原创文章
+* 公众号：JakePrim，Android/大前端
 
 ---
 
