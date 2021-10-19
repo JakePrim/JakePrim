@@ -1,6 +1,6 @@
 ## JakePrim's Github
 
-Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">JakePrim</a> ，  <a href="https://juejin.im/user/58b90798128fe10064336192">掘金</a>  👋 👋 👋 <a href="https://www.yuque.com/jakeprim">知识库</a>
+Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">JakePrim</a> ， 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
 
 - ⚡ 是非审之于心，毁誉听之于人，得失安之于数
 - 专注于大前端技术领域对前端、移动端Android、后端Node Java、性能优化、Linux技术的研究，深度思考技术的本质。
