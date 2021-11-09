@@ -1,25 +1,28 @@
 ## JakePrim's Github
 
-Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">JakePrim</a> ， 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
+Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">JakePrim</a> ， 
 
 - ⚡ 是非审之于心，毁誉听之于人，得失安之于数
-- Android & Web Developer，深度思考技术的本质。
-
-![JakePrim's github stats](https://github-readme-stats.vercel.app/api?username=JakePrim&show_icons=true&theme=dracula)
-
+- Android & Flutter Developer，深度思考技术的本质。
 ---
 
-**联系我**
+<div>
+  <a href="https://github.com/jonataslaw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakePrim&count_private=true&theme=cobalt&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakePrim&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
-* 个人微信：XY_stars
-* 公众号：JakePrim
+<p align="left">
+  🦄 <strong>Skills:</strong> Android, Flutter, Java, Kotlin
+</p>
 
----
+<p align="left">
+  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
+</p>
 
-**最新系列文章**
-
-* 架构修炼系列
-
-* [更多文章正在更新中.....]
+👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
+  
+Emails:
+- sufululove@gmail.com
 
 
