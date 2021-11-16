@@ -3,7 +3,7 @@
 Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">JakePrim</a> ， 
 
 - ⚡ 是非审之于心，毁誉听之于人，得失安之于数
-- Android & Flutter Developer，深度思考技术的本质。
+- Android & Flutter & Web Developer，深度思考技术的本质。
 ---
 
 <div>
@@ -13,7 +13,7 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 </div>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> Android, Flutter, Java, Kotlin
+  🦄 <strong>Skills:</strong> Android, Flutter, Java, Kotlin, JavaScript, Vue, React
 </p>
 
 <p align="left">
