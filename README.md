@@ -4,6 +4,10 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 
 ⚡ Android & Flutter & Web Developer，深度思考技术的本质。
 
+![](https://img.shields.io/static/v1?label=Job&message=Android%20Engineer&color=00CD66)
+![](https://img.shields.io/static/v1?label=Learning&message=Java%20Kotlin%20Flutter&color=FFEC8B)
+[![](https://img.shields.io/badge/Gmail-jerechen11%40gmail.com-red)](mailto:sufululove@gmail.com)
+
 <div>
   <a href="https://github.com/JakePrim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakePrim&count_private=true&theme=cobalt&show_icons=true"/>
