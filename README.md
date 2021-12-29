@@ -6,7 +6,7 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 
 ![](https://img.shields.io/static/v1?label=Job&message=Android%20Engineer&color=00CD66)
 ![](https://img.shields.io/static/v1?label=Learning&message=Java%20Kotlin%20Flutter&color=FFEC8B)
-[![](https://img.shields.io/badge/Gmail-jerechen11%40gmail.com-red)](mailto:sufululove@gmail.com)
+[![](https://img.shields.io/badge/Gmail-sufululove%40gmail.com-red)](mailto:sufululove@gmail.com)
 
 <div>
   <a href="https://github.com/JakePrim">
@@ -24,7 +24,8 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
   
-Emails:
-- sufululove@gmail.com
+The article:
+- ![https://www.yuque.com/jakeprim/android/iynp6z](https://img.shields.io/static/v1?label=Kotlin&message=Kotlin极简指南&color=00CD66)
+- ![https://www.yuque.com/jakeprim/android/fxyvvo](https://img.shields.io/static/v1?label=网络&message=Retrofit全面解析&color=01CD66)  
 
 
