@@ -25,7 +25,7 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
   
 The article:
-- ![https://www.yuque.com/jakeprim/android/iynp6z](https://img.shields.io/static/v1?label=Kotlin&message=Kotlin极简指南&color=00CD66)
-- ![https://www.yuque.com/jakeprim/android/fxyvvo](https://img.shields.io/static/v1?label=网络&message=Retrofit全面解析&color=01CD66)  
+- ![](https://img.shields.io/static/v1?label=Kotlin&message=Kotlin进阶&color=00CD66) [Kotlin极简指南](https://www.yuque.com/jakeprim/android/iynp6z)
+- ![](https://img.shields.io/static/v1?label=网络&message=Android网络框架&color=01CD66) [Retrofit全面解析](https://www.yuque.com/jakeprim/android/fxyvvo)
 
 
