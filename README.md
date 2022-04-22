@@ -2,7 +2,9 @@
 
 Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">JakePrim</a> ， 
 
-⚡ Android & Flutter & Web Developer，深度思考技术的本质。
+⚡ Android & 音视频技术 & Web Developer，深度思考技术的本质。
+
+> 人生总有不顺的时候，不必勉强冲刺，就把它当作老天给的悠长假期，好好享受这个假期。突然一天假期结束，时来运转，人生才真正开始。
 
 ![](https://img.shields.io/static/v1?label=Job&message=Android%20Engineer&color=00CD66)
 ![](https://img.shields.io/static/v1?label=Learning&message=Java%20Kotlin%20Flutter&color=FFEC8B)
@@ -15,7 +17,7 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 </div>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> Android, Flutter, Java, Kotlin, JavaScript, Vue, React
+  🦄 <strong>Skills:</strong> Android, C/C++, Java, Kotlin, JavaScript, Vue, React
 </p>
 
 <p align="left">
