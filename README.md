@@ -17,7 +17,7 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 </div>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> Android, C/C++, Java, Kotlin, JavaScript, Vue, React
+  🦄 <strong>Skills:</strong> Android, Java, Kotlin, JavaScript, Vue, React
 </p>
 
 <p align="left">
