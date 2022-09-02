@@ -2,7 +2,7 @@
 
 Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">JakePrim</a> ， 
 
-⚡ Software Development Engineer，深度思考技术的本质。
+⚡ Software Development Engineer[Android、React\ReactNative]，深度思考技术的本质。
 
 > 人生总有不顺的时候，不必勉强冲刺，就把它当作老天给的悠长假期，好好享受这个假期。突然一天假期结束，时来运转，人生才真正开始。
 
@@ -17,7 +17,7 @@ Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">Jak
 </div>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> Android, Java, Kotlin, JavaScript, Vue, React
+  🦄 <strong>Skills:</strong> Android, Java, Kotlin, JavaScript, React
 </p>
 
 <p align="left">
