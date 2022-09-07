@@ -6,13 +6,11 @@
 
 > 人生总有不顺的时候，不必勉强冲刺，就把它当作老天给的悠长假期，好好享受这个假期。突然一天假期结束，时来运转，人生才真正开始。
 
-## Mobile/FrontEnd engineer, Hobby is reading books、game
-
 ### 🚀 About
-- 👀 I'm currently focusing on **Android\React\ReactNative**
+- 👀 I'm currently focusing on **Android\Web**
 - ⚙️ I use daily: `react`, `react-native`,`kotlin`,`Java`
 - 🔭 I'm currently learning **React**
-- **I** ❤️ **to think, learn, code, and game**
+- **I** ❤️ **to think, learn, code**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
