@@ -1,33 +1,37 @@
 ## JakePrim's Github
 
-Hi there 👋, I'm <a href="https://juejin.im/user/58b90798128fe10064336192">JakePrim</a> ， 
+👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
 
 ⚡ Software Development Engineer[Android、React\ReactNative]，深度思考技术的本质。
 
 > 人生总有不顺的时候，不必勉强冲刺，就把它当作老天给的悠长假期，好好享受这个假期。突然一天假期结束，时来运转，人生才真正开始。
 
-![](https://img.shields.io/static/v1?label=Job&message=Android%20Engineer&color=00CD66)
-![](https://img.shields.io/static/v1?label=Learning&message=Java%20Kotlin%20Flutter&color=FFEC8B)
-[![](https://img.shields.io/badge/Gmail-sufululove%40gmail.com-red)](mailto:sufululove@gmail.com)
+## Mobile/FrontEnd engineer, Hobby is reading books、game
 
-<div>
-  <a href="https://github.com/JakePrim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakePrim&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakePrim&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+### 🚀 About
+- 👀 I'm currently focusing on **Android\React\ReactNative**
+- ⚙️ I use daily: `react`, `react-native`,`kotlin`,`Java`
+- 🔭 I'm currently learning **React**
+- **I** ❤️ **to think, learn, code, and game**
 
-<p align="left">
-  🦄 <strong>Skills:</strong> Android, Java, Kotlin, JavaScript, React
-</p>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-<p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, Xcode and Git.
-</p>
+- 💻 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+  ![Webpack](https://img.shields.io/badge/-Android-2B3A42?logo=Android&logoColor=75AFCC)
+- 🛢 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
-  
-The article:
-- ![](https://img.shields.io/static/v1?label=Kotlin&message=Kotlin进阶&color=00CD66) [Kotlin极简指南](https://www.yuque.com/jakeprim/android/iynp6z)
-- ![](https://img.shields.io/static/v1?label=网络&message=Android网络框架&color=01CD66) [Retrofit全面解析](https://www.yuque.com/jakeprim/android/fxyvvo)
+<br/>
+<a href="https://github.com/JakePrim">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakePrim&theme=buefy&show_icons=true&hide=prs&hide_border=true" />
 
-
+[comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakePrim&theme=buefy&layout=compact&hide_border=true" />)
+</a>
