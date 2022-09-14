@@ -8,8 +8,8 @@
 
 ### 🚀 About
 - 👀 I'm currently focusing on **Android\Web**
-- ⚙️ I use daily: `react`, `react-native`,`kotlin`,`Java`
-- 🔭 I'm currently learning **React**
+- ⚙️ I use daily: `react`, `react-native`,`kotlin`,`Java`,`Flutter`
+- 🔭 I'm currently learning **React\Flutter**
 - **I** ❤️ **to think, learn, code**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -17,10 +17,12 @@
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-  ![Webpack](https://img.shields.io/badge/-Android-2B3A42?logo=Android&logoColor=75AFCC)
+  ![Android](https://img.shields.io/badge/-Android-2B3A42?logo=Android&logoColor=75AFCC)
+  ![Flutter](https://img.shields.io/badge/-Flutter-2B3A42?logo=Flutter&logoColor=75AFCC)
 - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
