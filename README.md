@@ -8,14 +8,14 @@
 
 ### 🚀 About
 - 👀 I'm currently focusing on **Android\iOS\React\Flutter**
-- ⚙️ I use daily: `react`, `flutter`,`kotlin`,`Java`
-- **I** ❤️ **to think, learn, code,game XGP**
+- ⚙️ I use daily: `react`, `flutter`,`kotlin`,`Java`,`JavaScript/TypeScript`
+- **I** ❤️ **to think, learn, coding ,game XGP**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+  ![Web](https://img.shields.io/badge/Web-20232A?logo=React&logoColor=61DAFB)
   ![Android](https://img.shields.io/badge/-Android-2B3A42?logo=Android&logoColor=75AFCC)
   ![Flutter](https://img.shields.io/badge/-Flutter-2B3A42?logo=Flutter&logoColor=75AFCC)
 - 🛢 &nbsp;
