@@ -2,20 +2,20 @@
 
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
 
-⚡ 专注于大前端领域的工程师[Android、iOS、Flutter、React]，喜欢深度思考和探索技术的本质。
+⚡ 专注于大前端领域的工程师[Android、Vue、Flutter、React]，喜欢深度思考和探索技术的本质。
 
 > 人生总有不顺的时候，不必勉强冲刺，就把它当作老天给的悠长假期，好好享受这个假期。突然一天假期结束，时来运转，人生才真正开始。
 
 ### 🚀 About
-- 👀 I'm currently focusing on **Android\iOS\React\Flutter**
-- ⚙️ I use daily: `react`, `flutter`,`kotlin`,`Java`,`JavaScript/TypeScript`
+- 👀 I'm currently focusing on **Android\Vue\React\Flutter**
+- ⚙️ I use daily: `React`, `flutter`,`kotlin`,`Java`,`Vue`
 - **I** ❤️ **to think, learn, coding ,game XGP**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Web](https://img.shields.io/badge/Web-20232A?logo=React&logoColor=61DAFB)
+  ![Vue](https://img.shields.io/badge/-Vue-20232A?logo=Vue&logoColor=61DAFB)
   ![Android](https://img.shields.io/badge/-Android-2B3A42?logo=Android&logoColor=75AFCC)
   ![Flutter](https://img.shields.io/badge/-Flutter-2B3A42?logo=Flutter&logoColor=75AFCC)
 - 🛢 &nbsp;
