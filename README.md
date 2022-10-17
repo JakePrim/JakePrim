@@ -13,12 +13,12 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-  ![Vue](https://img.shields.io/badge/-Vue-20232A?logo=Vue&logoColor=61DAFB)
+  ![Java](https://img.shields.io/badge/-Java-2B3A42?logo=Java&logoColor=75AFCC)
+  ![Vue](https://img.shields.io/badge/-Vue-2B3A42?logo=Vue&logoColor=75AFCC)
   ![Android](https://img.shields.io/badge/-Android-2B3A42?logo=Android&logoColor=75AFCC)
   ![Flutter](https://img.shields.io/badge/-Flutter-2B3A42?logo=Flutter&logoColor=75AFCC)
 - 🛢 &nbsp;
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
