@@ -2,7 +2,7 @@
 
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
 
-⚡ 专注于大前端领域的工程师[Android、React、Flutter]，喜欢深度思考和探索技术的本质。
+⚡ 专注于移动端领域工程师[Android、React(Native/H5/Taro)、Flutter]，喜欢深度思考和探索技术的本质。
 
 > 人生总有不顺的时候，不必勉强冲刺，就把它当作老天给的悠长假期，好好享受这个假期。突然一天假期结束，时来运转，人生才真正开始。
 
