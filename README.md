@@ -2,7 +2,7 @@
 
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
 
-⚡ 专注于移动端领域工程师[Android、Flutter、React]，喜欢深度思考和探索技术的本质。
+⚡ 专注于移动的领域技术[Android、Java、Flutter] 偶尔搞搞后端开发，深度思考技术的本质。
 
 > 人生总有不顺的时候，不必勉强冲刺，就把它当作老天给的悠长假期，好好享受这个假期。突然一天假期结束，时来运转，人生才真正开始。
 
@@ -13,7 +13,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![React](https://img.shields.io/badge/-React-2B3A42?logo=React&logoColor=75AFCC)
+  ![Java](https://img.shields.io/badge/-React-2B3A42?logo=Java&logoColor=75AFCC)
   ![Android](https://img.shields.io/badge/-Android-2B3A42?logo=Android&logoColor=75AFCC)
   ![Flutter](https://img.shields.io/badge/-Flutter-2B3A42?logo=Flutter&logoColor=75AFCC)
 - 🛢 &nbsp;
