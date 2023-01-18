@@ -9,10 +9,3 @@
 ### 🚀 About
 - 👀 I'm currently focusing on **Flutter\React**
 - **I** ❤️ **to think, learn, coding ,game XGP**
-
-<br/>
-<a href="https://github.com/JakePrim">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JakePrim&theme=buefy&show_icons=true&hide=prs&hide_border=true" />
-
-[comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakePrim&theme=buefy&layout=compact&hide_border=true" />)
-</a>
