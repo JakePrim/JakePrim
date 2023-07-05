@@ -3,7 +3,7 @@
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
 
 ⚡ Hello, folks! 
-I am JakePrim, a follower of Android & iOS & Kotlin & Swift & Flutter. I am interested in exploring new skills and unknown fields. I have unlimited motivation due to my love.
+I am JakePrim, a follower of Android & iOS & Kotlin/Java/Swift/C++ & Flutter. I am interested in exploring new skills and unknown fields. I have unlimited motivation due to my love.
 
 The more you know, the more you don't know! 努力成为领域专家中...
  
