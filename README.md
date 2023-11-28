@@ -6,7 +6,7 @@
 
 （哈喽，各位！ 我是JakePrim，目前专注于移动终端基础设施、性能优化、Framework、跨平台开发。 我有兴趣探索新技能和未知领域，我有无限的动力。）
 
- ♥  C++/Java/Kotlin
+ ♥  React/ReactNative/Android/Node
  
 The more you know, the more you don't know! Strive to become an expert in the field of mobile terminal...
  
