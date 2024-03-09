@@ -10,7 +10,7 @@
 ### 🚀 About
 - **I** ❤️ **to think, learn, coding ,game XGP**
 
-- ❤️ Android Framework & Rust/Java/C++ & AI ,Writing & Sharing
+- ❤️ Android & Flutter & AI ,Writing & Sharing
 
 <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
  
