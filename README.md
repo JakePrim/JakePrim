@@ -3,13 +3,13 @@
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
 
 ⚡ Hello, everyone! I'm JakePrim ,A post-90s, but I'm still a cool guy, loving and enjoying coding!
-- ● currently focusing on mobile terminal infrastructure, performance optimization (APM), and cross-platform technology (Flutter/RN egs). I am interested in exploring new skills and unknown territories. Because of my love, I have unlimited motivation.
-（专注于移动终端基础建设、性能优化(APM)、跨平台技术(Flutter/RN egs)
+- ● currently focusing on mobile terminal infrastructure, performance optimization (APM), and Rust). I am interested in exploring new skills and unknown territories. Because of my love, I have unlimited motivation.
+（专注于移动终端基础建设、性能优化(APM)、Rust)
 
 ### 🚀 About
 - **I** ❤️ **to think, learn, coding ,game XGP**
 
-- ❤️ Android/iOS & 性能优化(APM) & 跨平台 ,Writing & Sharing
+- ❤️ Android/iOS/RN & 性能优化(APM) & Rust ,Writing & Sharing
 
 <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
  
