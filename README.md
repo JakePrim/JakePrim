@@ -4,7 +4,7 @@
 
 ⚡ Hello, everyone! I'm JakePrim ,A post-90s, but I'm still a cool guy, loving and enjoying coding!
 - currently focusing on mobile terminal infrastructure, performance optimization (APM), and C/C++). I am interested in exploring new skills and unknown territories. Because of my love, I have unlimited motivation.
--（专注于移动终端基础建设、性能优化(APM)、C/C++)
+- (专注于移动终端基础建设、性能优化(APM)、C/C++)
 
 ### 🚀 About
 - **I** ❤️ **to think, learn, coding ,game XGP**
