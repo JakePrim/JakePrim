@@ -3,13 +3,13 @@
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">个人主页</a>
 
 ⚡ Hello, everyone! I'm JakePrim ,A post-90s, but I'm still a cool guy, loving and enjoying coding!
-- currently focusing on mobile terminal infrastructure, performance optimization (APM), and Go). I am interested in exploring new skills and unknown territories. Because of my love, I have unlimited motivation.
-- (专注于移动终端基础建设、性能优化(APM)、Go)
+- currently focusing on mobile terminal infrastructure, C/C++). I am interested in exploring new skills and unknown territories. Because of my love, I have unlimited motivation.
+- (专注于移动终端基础建设、C/C++)
 
 ### 🚀 About
 - **I** ❤️ **to think, learn, coding ,game XGP**
 
-- ❤️ Android/Flutter & 性能优化(APM) & Go ,Writing & Sharing
+- ❤️ Android/Flutter & C/C++ ,Writing & Sharing
 
 <img src="https://github.com/sunface/sunface/blob/master/assets/ferris.gif" align="right" width="25%"/>
  
