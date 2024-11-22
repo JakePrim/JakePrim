@@ -3,7 +3,7 @@
 👋 👋 👋 <a href="https://www.yuque.com/jakeprim">Home</a>
 
 ⚡ Hello, everyone! I'm JakePrim ,A post-90s, but I'm still a cool guy, loving and enjoying coding!
-- currently focusing on mobile terminal infrastructure and Android Framework. I am interested in exploring new skills and unknown territories. Because of my love, I have unlimited motivation.
+- currently focusing on C++ full stack and Android Framework and Linux. I am interested in exploring new skills and unknown territories. Because of my love, I have unlimited motivation.
 
 🦄 Skills:Android,C/C++,Linux
 
